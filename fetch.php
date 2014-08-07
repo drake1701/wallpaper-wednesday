@@ -1,6 +1,5 @@
 <?php
 /**
- * @package		PaperRoll
  * @author		Dennis Rogers
  * @address		www.drogers.net
  */
